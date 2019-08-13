@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\scp035\scp035\bin\Debug\scp035.dll
+c:\users\administrator\documents\visual studio 2015\Projects\scp035\scp035\bin\Debug\scp035.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\scp035\scp035\bin\Debug\Smod2.dll
+c:\users\administrator\documents\visual studio 2015\Projects\scp035\scp035\obj\Debug\scp035.dll
+c:\users\administrator\documents\visual studio 2015\Projects\scp035\scp035\obj\Debug\scp035.pdb
